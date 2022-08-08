@@ -135,7 +135,7 @@
   },
   "pwa-studio": {
     "targets": {
-      "intercept": "./local-intercept.js"
+      "intercept": "src/overrides/venia-ui/targets/local-intercept"
     }
   }
 }
